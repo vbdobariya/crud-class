@@ -1,0 +1,4 @@
+export const USER_SUBMIT="USER_SUBMIT";
+export const USER_DELETE="USER_DELETE";
+export const USER_EDIT="USER_EDIT";
+export const USER_EDIT_INDEX="USER_EDIT_INDEX";
